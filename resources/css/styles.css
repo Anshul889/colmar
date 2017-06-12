@@ -325,6 +325,7 @@ header .mobile {
 video {
 	padding: 0 1.5rem 1.5rem 1.5rem;
 	width: calc(100% - 48px);
+	height: auto;
 }
 
 .example-pic img {
