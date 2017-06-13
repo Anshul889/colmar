@@ -483,7 +483,7 @@ video {
 }
 
 .example-description h5 {
-	font-family: "TruenoLight"
+	font-family: "TruenoLight";
 	margin: 0;
 	color: #4a4a4a;
 	font-weight: 100;
